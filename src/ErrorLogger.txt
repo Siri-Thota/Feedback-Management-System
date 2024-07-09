@@ -1,0 +1,246 @@
+Wed May 05 2021 12:20:46 GMT+0530 (India Standard Time) - TypeError: educatorregister.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:15:22
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Wed May 05 2021 12:21:02 GMT+0530 (India Standard Time) - TypeError: educatorregister.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:15:22
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Wed May 05 2021 12:21:27 GMT+0530 (India Standard Time) - TypeError: educatorregister.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:15:22
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 10:54:12 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:19:11
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 10:54:28 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:19:11
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 10:54:47 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:19:11
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 10:55:06 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:19:11
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 10:59:44 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:19:11
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 11:00:09 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:19:11
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 11:30:38 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:21:10
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 11:31:35 GMT+0530 (India Standard Time) - TypeError: edreg.save is not a function
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:21:10
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 11:43:59 GMT+0530 (India Standard Time) - TypeError: EducatorRegister is not a constructor
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:20:17
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\Internship - Infosys\Emotion-Analysis\back-end\src\utilities\requestlogger.js:8:5)
+Thu May 06 2021 11:46:15 GMT+0530 (India Standard Time) - MongooseError: Operation `Educator.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:20)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Thu May 06 2021 11:48:20 GMT+0530 (India Standard Time) - MongooseError: Operation `Educator.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:20)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Thu May 06 2021 11:56:44 GMT+0530 (India Standard Time) - Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:558:11)
+    at ServerResponse.header (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.location (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\response.js:888:15)
+    at ServerResponse.redirect (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\response.js:926:18)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:25:8
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
+Thu May 06 2021 11:57:54 GMT+0530 (India Standard Time) - Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:558:11)
+    at ServerResponse.header (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.location (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\response.js:888:15)
+    at ServerResponse.redirect (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\response.js:926:18)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\src\routes\routing.js:25:8
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Internship - Infosys\Emotion-Analysis\back-end\node_modules\express\lib\router\index.js:317:13)
